@@ -1,0 +1,13 @@
+
+Python 3.7
+Required Libraries:
+- pyttsx3: Text-to-speech engine.
+- datetime: To get the current time and date.
+- speech_recognition: To convert speech to text.
+- wikipedia: To search information on Wikipedia.
+- webbrowser: To open websites.
+- os: For interacting with the operating system.
+- psutil: For checking system battery status.
+- pywhatkit: To search on YouTube.
+- selenium: For automated web browsing.
+- requests: For fetching location based on IP.
